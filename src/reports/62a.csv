@@ -1,0 +1,6 @@
+n.code = s.codesite and n.precision = 1 and substr(s.code,1,1) <>0
+                                            *
+ERROR at line 4:
+ORA-01722: invalid number
+
+

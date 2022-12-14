@@ -1,0 +1,225 @@
+2022-04-27 08:02:31: DB Commander v9.1.0 Starting...
+2022-04-27 08:02:31: Using command file E:\tis_report\asset\export.txt
+2022-04-27 08:02:31: Connecting to 99_NEW_PROD_ASSET_91 as 'SRVUOPS'
+2022-04-27 08:02:31: ODBC Driver version: 12.1.0.2.0
+2022-04-27 08:02:33: DB Settings - TNS_ADMIN has been set to E:\app\client\product\12.1.0\client_1\network\admin
+2022-04-27 08:02:33: Using Database Settings...
+2022-04-27 08:02:33: Logged into 'PLNNRP04' as user 'SRVUOPS'
+2022-04-27 08:02:33: Read 27 project(s):
+2022-04-27 08:03:13: WARNING: The maximum disk usage parameter is not set - no clear up of unused prediction files will take place. Please set this parameter in the project settings dialog box.
+2022-04-27 08:03:14: Prediction Engine Initialization Warning (Prediction task error: Encountered a communications error while attempting to contact the task distribution coordinator (*System failed to determine system error information (generic-distributor-module)*)).
+2022-04-27 08:03:14: Able to process 4 concurrent predictions locally
+2022-04-27 08:03:14: Failed to convert prediction folder path to UNC format (Could not resolve domain and machine name for '\\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\Predictions' (OS error 5))!
+2022-04-27 08:03:14: Failed to convert height-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DTM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-27 08:03:14: Failed to convert clutter-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DLU' is local, so cannot be expanded to a valid UNC path)!
+2022-04-27 08:03:14: Failed to convert vector-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\LINES' is local, so cannot be expanded to a valid UNC path)!
+2022-04-27 08:03:14: Failed to convert building-raster-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DHM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-27 08:03:14: WARNING: Prediction distribution will be unavailable due to one or more critical folder paths not being in UNC format (see above)
+2022-04-27 08:03:14: Local processing of predictions favoured
+2022-04-27 08:03:14: Starting Project 21: MWINGZ_REFERENCE_2G_3G_4G
+2022-04-27 08:03:21: Found backdrops at 7 resolutions in folder 'C:\DATA\MAP_INDEXES\BELGIUM\BACKDROP'.
+2022-04-27 08:03:33: Creating new index file as file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index.xml for 'User Vectors' as the data appears to be invalid.
+2022-04-27 08:03:33: New Index about to be created as existing had invalid data. backup of existing file in: \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index_invalid_data.xml
+2022-04-27 08:03:33: Error: Can not save change to the index.xml file due to the following reason: Insufficient disk space to save (null)..
+2022-04-27 08:03:33: Failed to create the new Index file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index.xml
+2022-04-27 08:03:33: Error: Loading User Vectors index.xml file. No User Vectors will be loaded.
+2022-04-27 08:07:26: Refreshing connections
+2022-04-27 08:07:26: Refreshing connections complete
+2022-04-27 08:07:35: Ready
+2022-04-27 08:07:35: Reading Command File E:\tis_report\asset\export.txt
+2022-04-27 08:07:35: Running EXPORT_XML [01]
+2022-04-27 08:07:35: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:35: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:35: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:35: Setting Antenna Export Filter to: All
+2022-04-27 08:07:35: Using filter: 02 - Bad Coordinates.
+2022-04-27 08:07:35: Exporting to: E:\tis_report\asset\43.
+2022-04-27 08:07:35: Location unit set to: DEFINED.
+2022-04-27 08:07:36: Saved E:\tis_report\asset\43\PROPERTY-LIST001.xml (used large file support)
+2022-04-27 08:07:36: Saved E:\tis_report\asset\43\INDEX001.xml
+2022-04-27 08:07:36: XML Export complete.
+2022-04-27 08:07:36: Completed EXPORT_XML [01] successfully
+2022-04-27 08:07:36: Running EXPORT_XML [02]
+2022-04-27 08:07:36: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:36: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:36: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:36: Setting Antenna Export Filter to: All
+2022-04-27 08:07:36: Using filter: 03 - Sites without name.
+2022-04-27 08:07:36: Exporting to: E:\tis_report\asset\44.
+2022-04-27 08:07:36: Location unit set to: DEFINED.
+2022-04-27 08:07:37: Saved E:\tis_report\asset\44\MU-NODE-LIST001.xml (No data exported.  File does not contain data.)
+2022-04-27 08:07:37: Saved E:\tis_report\asset\44\INDEX001.xml
+2022-04-27 08:07:37: XML Export complete.
+2022-04-27 08:07:37: Completed EXPORT_XML [02] successfully
+2022-04-27 08:07:37: Running EXPORT_XML [03]
+2022-04-27 08:07:37: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:37: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:37: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:37: Setting Antenna Export Filter to: All
+2022-04-27 08:07:37: Using filter: 04 - EmptyProperty.
+2022-04-27 08:07:37: Exporting to: E:\tis_report\asset\45.
+2022-04-27 08:07:37: Location unit set to: DEFINED.
+2022-04-27 08:07:38: Saved E:\tis_report\asset\45\PROPERTY-LIST001.xml (used large file support)
+2022-04-27 08:07:38: Saved E:\tis_report\asset\45\INDEX001.xml
+2022-04-27 08:07:38: XML Export complete.
+2022-04-27 08:07:38: Completed EXPORT_XML [03] successfully
+2022-04-27 08:07:38: Running EXPORT_XML [04]
+2022-04-27 08:07:38: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:38: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:38: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:38: Setting Antenna Export Filter to: All
+2022-04-27 08:07:38: Using filter: 05 - Code Property Erroneous.
+2022-04-27 08:07:38: Exporting to: E:\tis_report\asset\46.
+2022-04-27 08:07:38: Location unit set to: DEFINED.
+2022-04-27 08:07:38: Saved E:\tis_report\asset\46\PROPERTY-LIST001.xml (used large file support)
+2022-04-27 08:07:38: Saved E:\tis_report\asset\46\INDEX001.xml
+2022-04-27 08:07:38: XML Export complete.
+2022-04-27 08:07:38: Completed EXPORT_XML [04] successfully
+2022-04-27 08:07:38: Running EXPORT_XML [05]
+2022-04-27 08:07:38: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:38: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:38: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:38: Setting Antenna Export Filter to: All
+2022-04-27 08:07:38: Using filter: 06 - NO Cell Layer NoHopping.
+2022-04-27 08:07:38: Exporting to: E:\tis_report\asset\47.
+2022-04-27 08:07:38: Location unit set to: DEFINED.
+2022-04-27 08:07:38: Saved E:\tis_report\asset\47\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:07:38: Saved E:\tis_report\asset\47\INDEX001.xml
+2022-04-27 08:07:38: XML Export complete.
+2022-04-27 08:07:38: Completed EXPORT_XML [05] successfully
+2022-04-27 08:07:38: Running EXPORT_XML [06]
+2022-04-27 08:07:38: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:38: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:38: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:38: Setting Antenna Export Filter to: All
+2022-04-27 08:07:38: Using filter: 07 - NoHopping in Same Sector.
+2022-04-27 08:07:38: Exporting to: E:\tis_report\asset\48.
+2022-04-27 08:07:38: Location unit set to: DEFINED.
+2022-04-27 08:07:40: Saved E:\tis_report\asset\48\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:07:40: Saved E:\tis_report\asset\48\INDEX001.xml
+2022-04-27 08:07:40: XML Export complete.
+2022-04-27 08:07:40: Completed EXPORT_XML [06] successfully
+2022-04-27 08:07:40: Running EXPORT_XML [07]
+2022-04-27 08:07:40: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:40: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:40: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:40: Setting Antenna Export Filter to: All
+2022-04-27 08:07:40: Using filter: 09 - Sites without cells.
+2022-04-27 08:07:40: Exporting to: E:\tis_report\asset\50.
+2022-04-27 08:07:40: Location unit set to: DEFINED.
+2022-04-27 08:07:41: Saved E:\tis_report\asset\50\MU-NODE-LIST001.xml (used large file support)
+2022-04-27 08:07:41: Saved E:\tis_report\asset\50\INDEX001.xml
+2022-04-27 08:07:41: XML Export complete.
+2022-04-27 08:07:41: Completed EXPORT_XML [07] successfully
+2022-04-27 08:07:41: Running EXPORT_XML [08]
+2022-04-27 08:07:41: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:41: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:41: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:41: Setting Antenna Export Filter to: All
+2022-04-27 08:07:41: Using filter: 10 - Total carriers equal 0.
+2022-04-27 08:07:41: Exporting to: E:\tis_report\asset\51.
+2022-04-27 08:07:41: Location unit set to: DEFINED.
+2022-04-27 08:07:41: Saved E:\tis_report\asset\51\GSM-CELL-LIST001.xml (No data exported.  File does not contain data.)
+2022-04-27 08:07:41: Saved E:\tis_report\asset\51\INDEX001.xml
+2022-04-27 08:07:41: XML Export complete.
+2022-04-27 08:07:41: Completed EXPORT_XML [08] successfully
+2022-04-27 08:07:41: Running EXPORT_XML [09]
+2022-04-27 08:07:41: Export of Prediction System Info is set to: NO.
+2022-04-27 08:07:41: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:07:41: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:07:41: Setting Antenna Export Filter to: All
+2022-04-27 08:07:41: Using filter: 11 - RU with Gsm900 Nohopping P1.
+2022-04-27 08:07:41: Exporting to: E:\tis_report\asset\52.
+2022-04-27 08:07:41: Location unit set to: DEFINED.
+2022-04-27 08:08:02: Saved E:\tis_report\asset\52\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:08:02: Saved E:\tis_report\asset\52\INDEX001.xml
+2022-04-27 08:08:02: XML Export complete.
+2022-04-27 08:08:02: Completed EXPORT_XML [09] successfully
+2022-04-27 08:08:02: Running EXPORT_XML [10]
+2022-04-27 08:08:02: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:02: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:02: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:02: Setting Antenna Export Filter to: All
+2022-04-27 08:08:02: Using filter: 11 - Rural model in HR.
+2022-04-27 08:08:02: Exporting to: E:\tis_report\asset\53.
+2022-04-27 08:08:02: Location unit set to: DEFINED.
+2022-04-27 08:08:21: Saved E:\tis_report\asset\53\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:08:21: Saved E:\tis_report\asset\53\INDEX001.xml
+2022-04-27 08:08:21: XML Export complete.
+2022-04-27 08:08:21: Completed EXPORT_XML [10] successfully
+2022-04-27 08:08:21: Running EXPORT_XML [11]
+2022-04-27 08:08:21: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:21: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:21: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:21: Setting Antenna Export Filter to: All
+2022-04-27 08:08:21: Using filter: 11 - Unknown Model for 900.
+2022-04-27 08:08:21: Exporting to: E:\tis_report\asset\54.
+2022-04-27 08:08:21: Location unit set to: DEFINED.
+2022-04-27 08:08:21: Saved E:\tis_report\asset\54\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:08:21: Saved E:\tis_report\asset\54\INDEX001.xml
+2022-04-27 08:08:21: XML Export complete.
+2022-04-27 08:08:21: Completed EXPORT_XML [11] successfully
+2022-04-27 08:08:22: Running EXPORT_XML [12]
+2022-04-27 08:08:22: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:22: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:22: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:22: Setting Antenna Export Filter to: All
+2022-04-27 08:08:22: Using filter: 11 - Model900 in Cell Layer 1800.
+2022-04-27 08:08:22: Exporting to: E:\tis_report\asset\55.
+2022-04-27 08:08:22: Location unit set to: DEFINED.
+2022-04-27 08:08:22: Saved E:\tis_report\asset\55\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:08:22: Saved E:\tis_report\asset\55\INDEX001.xml
+2022-04-27 08:08:22: XML Export complete.
+2022-04-27 08:08:22: Completed EXPORT_XML [12] successfully
+2022-04-27 08:08:22: Running EXPORT_XML [13]
+2022-04-27 08:08:22: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:22: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:22: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:22: Setting Antenna Export Filter to: All
+2022-04-27 08:08:22: Using filter: 11 - DU U SU with nohoppingrural P1.
+2022-04-27 08:08:22: Exporting to: E:\tis_report\asset\56.
+2022-04-27 08:08:22: Location unit set to: DEFINED.
+2022-04-27 08:08:41: Saved E:\tis_report\asset\56\GSM-CELL-LIST001.xml (used large file support)
+2022-04-27 08:08:41: Saved E:\tis_report\asset\56\INDEX001.xml
+2022-04-27 08:08:41: XML Export complete.
+2022-04-27 08:08:41: Completed EXPORT_XML [13] successfully
+2022-04-27 08:08:41: Running EXPORT_XML [14]
+2022-04-27 08:08:41: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:41: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:41: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:41: Setting Antenna Export Filter to: All
+2022-04-27 08:08:41: Using filter: 12 - GSM_Default.
+2022-04-27 08:08:41: Exporting to: E:\tis_report\asset\57.
+2022-04-27 08:08:41: Location unit set to: DEFINED.
+2022-04-27 08:08:41: Saved E:\tis_report\asset\57\GSM-CELL-LIST001.xml (No data exported.  File does not contain data.)
+2022-04-27 08:08:41: Saved E:\tis_report\asset\57\INDEX001.xml
+2022-04-27 08:08:41: XML Export complete.
+2022-04-27 08:08:41: Completed EXPORT_XML [14] successfully
+2022-04-27 08:08:41: Running EXPORT_XML [15]
+2022-04-27 08:08:41: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:41: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:41: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:41: Setting Antenna Export Filter to: All
+2022-04-27 08:08:41: Using filter: 13 - Antenna height abnormal (> 80 m).
+2022-04-27 08:08:41: Exporting to: E:\tis_report\asset\59.
+2022-04-27 08:08:41: Location unit set to: DEFINED.
+2022-04-27 08:08:42: Saved E:\tis_report\asset\59\MU-NODE-LIST001.xml (used large file support)
+2022-04-27 08:08:42: Saved E:\tis_report\asset\59\INDEX001.xml
+2022-04-27 08:08:42: XML Export complete.
+2022-04-27 08:08:42: Completed EXPORT_XML [15] successfully
+2022-04-27 08:08:42: Running EXPORT_XML [16]
+2022-04-27 08:08:42: Export of Prediction System Info is set to: NO.
+2022-04-27 08:08:42: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-27 08:08:42: Export of Inward Neighbours is set to: NO.
+2022-04-27 08:08:42: Setting Antenna Export Filter to: All
+2022-04-27 08:08:42: Using filter: 14. Precision1,FN8 and ON_AIR flags misuse.
+2022-04-27 08:08:42: Exporting to: E:\tis_report\asset\60.
+2022-04-27 08:08:42: Location unit set to: DEFINED.
+2022-04-27 08:08:45: Saved E:\tis_report\asset\60\MU-NODE-LIST001.xml (used large file support)
+2022-04-27 08:08:45: Saved E:\tis_report\asset\60\INDEX001.xml
+2022-04-27 08:08:45: XML Export complete.
+2022-04-27 08:08:45: Completed EXPORT_XML [16] successfully
+2022-04-27 08:08:45: Closing Project ...
+2022-04-27 08:08:51: Closed Project 21: 'MWINGZ_REFERENCE_2G_3G_4G'
+2022-04-27 08:08:51: Logged out from 'PLNNRP04' as user 'SRVUOPS'
+2022-04-27 08:08:51: DB Commander v9.1.0 Terminating...

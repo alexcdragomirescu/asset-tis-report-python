@@ -1,0 +1,155 @@
+2022-04-20 08:00:03,165 - root - INFO - Logging enabled.
+2022-04-20 08:00:03,181 - root - INFO - The script was executed from "report.py", located in the     path-prefix "E:\tis_report" on the machine "MSEKIMW778P".
+2022-04-20 08:00:03,196 - root - INFO - Removing old program logs...
+2022-04-20 08:00:03,196 - root - INFO - Removing CSV files...
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\1.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\10.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\11.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\12.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\13.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\14.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\15.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\16.csv".
+2022-04-20 08:00:03,196 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\17.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\18.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\19.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\2.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\20.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\21.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\22.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\23.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\24.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\25.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\26.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\28.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\3.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\31.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\32.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\33.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\34.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\4.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\43.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\44.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\45.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\46.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\47.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\48.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\5.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\50.csv".
+2022-04-20 08:00:03,212 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\51.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\52.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\53.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\54.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\55.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\56.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\57.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\59.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\6.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\60.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\61.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\62a.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\62b.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\62c.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\63a.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\63b.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\64.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\65.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\66.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\67.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\68.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\69.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\7.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\70.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\71.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\72.csv".
+2022-04-20 08:00:03,227 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\73.csv".
+2022-04-20 08:00:03,243 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\74.csv".
+2022-04-20 08:00:03,243 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\75.csv".
+2022-04-20 08:00:03,243 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\8.csv".
+2022-04-20 08:00:03,243 - remove - INFO - Successfully removed pathname "E:\tis_report\reports\9.csv".
+2022-04-20 08:00:03,243 - root - INFO - Executing SQL queries...
+2022-04-20 08:03:01,198 - root - INFO - Removing ASSET data...
+2022-04-20 08:03:01,198 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\43\43.csv".
+2022-04-20 08:03:01,198 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\43\INDEX001.xml".
+2022-04-20 08:03:01,198 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\43\PROPERTY-LIST001.xml".
+2022-04-20 08:03:01,198 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\44\44.csv".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\44\INDEX001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\44\MU-NODE-LIST001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\45\45.csv".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\45\INDEX001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\45\PROPERTY-LIST001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\46\46.csv".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\46\INDEX001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\46\PROPERTY-LIST001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\47\47.csv".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\47\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\47\INDEX001.xml".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\48\48.csv".
+2022-04-20 08:03:01,214 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\48\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\48\INDEX001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\50\50.csv".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\50\INDEX001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\50\MU-NODE-LIST001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\51\51.csv".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\51\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\51\INDEX001.xml".
+2022-04-20 08:03:01,229 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\52\52.csv".
+2022-04-20 08:03:01,245 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\52\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,245 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\52\INDEX001.xml".
+2022-04-20 08:03:01,260 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\53\53.csv".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\53\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\53\INDEX001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\54\54.csv".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\54\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\54\INDEX001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\55\55.csv".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\55\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\55\INDEX001.xml".
+2022-04-20 08:03:01,276 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\56\56.csv".
+2022-04-20 08:03:01,292 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\56\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,292 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\56\INDEX001.xml".
+2022-04-20 08:03:01,292 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\57\57.csv".
+2022-04-20 08:03:01,292 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\57\GSM-CELL-LIST001.xml".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\57\INDEX001.xml".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\59\59.csv".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\59\INDEX001.xml".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\59\MU-NODE-LIST001.xml".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\60\60.csv".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\60\INDEX001.xml".
+2022-04-20 08:03:01,307 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\60\MU-NODE-LIST001.xml".
+2022-04-20 08:03:01,370 - root - INFO - Exporting ASSET data...
+2022-04-20 08:03:01,385 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-20 08:03:01,385 - remove - INFO - Successfully removed pathname "E:\tis_report\asset\export_2022-04-19_08-02-53.log".
+2022-04-20 08:03:01,385 - dbcmd - INFO - Executing dbcmd...
+2022-04-20 08:10:15,391 - dbcmd - INFO - Checking log file "E:\tis_report\asset\export_2022-04-20_08-03-01.log"...
+2022-04-20 08:10:15,422 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\export_2022-04-20_08-03-01.log" to destination"E:\tis_report\logs\tis_20220420080003\export_2022-04-20_08-03-01.log".
+2022-04-20 08:10:15,422 - root - INFO - Done.
+2022-04-20 08:10:15,500 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\43\43.csv" to destination"E:\tis_report\reports\43.csv".
+2022-04-20 08:10:15,516 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\44\44.csv" to destination"E:\tis_report\reports\44.csv".
+2022-04-20 08:10:15,563 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\45\45.csv" to destination"E:\tis_report\reports\45.csv".
+2022-04-20 08:10:15,578 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\46\46.csv" to destination"E:\tis_report\reports\46.csv".
+2022-04-20 08:10:15,594 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\47\47.csv" to destination"E:\tis_report\reports\47.csv".
+2022-04-20 08:10:15,609 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\48\48.csv" to destination"E:\tis_report\reports\48.csv".
+2022-04-20 08:10:15,625 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\50\50.csv" to destination"E:\tis_report\reports\50.csv".
+2022-04-20 08:10:15,625 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\51\51.csv" to destination"E:\tis_report\reports\51.csv".
+2022-04-20 08:10:17,014 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\52\52.csv" to destination"E:\tis_report\reports\52.csv".
+2022-04-20 08:10:18,402 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\53\53.csv" to destination"E:\tis_report\reports\53.csv".
+2022-04-20 08:10:18,652 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\54\54.csv" to destination"E:\tis_report\reports\54.csv".
+2022-04-20 08:10:18,667 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\55\55.csv" to destination"E:\tis_report\reports\55.csv".
+2022-04-20 08:10:19,712 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\56\56.csv" to destination"E:\tis_report\reports\56.csv".
+2022-04-20 08:10:19,962 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\57\57.csv" to destination"E:\tis_report\reports\57.csv".
+2022-04-20 08:10:19,978 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\59\59.csv" to destination"E:\tis_report\reports\59.csv".
+2022-04-20 08:10:20,134 - copy_file - INFO - Successfully copied pathname "E:\tis_report\asset\60\60.csv" to destination"E:\tis_report\reports\60.csv".
+2022-04-20 08:10:20,134 - remove - INFO - Successfully removed pathname "E:\tis_report\output\TIS_full report_19.04.2022.xlsx".
+2022-04-20 08:10:20,134 - copy_file - INFO - Successfully copied pathname "E:\tis_report\templates\tis.xlsx" to destination"E:\tis_report\output\TIS_full report_20.04.2022.xlsx".
+2022-04-20 08:10:26,062 - root - INFO - Saving TIS report...
+2022-04-20 08:10:34,252 - root - INFO - Copying the log at this point...
+2022-04-20 08:10:34,252 - copy_file - INFO - Successfully copied pathname "E:\tis_report\logs\python_20220420080003.log" to destination"E:\tis_report\logs\tis_20220420080003\python_20220420080003.log".
+2022-04-20 08:10:34,268 - root - INFO - Archiving and compressing logs...
+2022-04-20 08:10:34,268 - remove - INFO - Successfully removed path-prefix "E:\tis_report\logs\tis_20220420080003".
+2022-04-20 08:10:34,424 - root - INFO - Authoring admin email template...
+2022-04-20 08:10:34,845 - paramiko.transport - INFO - Connected (version 2.0, client Sun_SSH_2.0)
+2022-04-20 08:10:36,499 - paramiko.transport - INFO - Authentication (publickey) successful!
+2022-04-20 08:10:36,592 - paramiko.transport.sftp - INFO - [chan 0] Opened sftp connection (server version 3)
+2022-04-20 08:10:36,592 - root - INFO - Seding files to freetown...
+2022-04-20 08:10:39,650 - root - INFO - Done.

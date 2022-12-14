@@ -1,0 +1,113 @@
+[EXECUTE]
+1=01
+2=02
+3=03
+4=04
+5=05
+6=06
+7=07
+8=08
+9=09
+10=10
+11=11
+12=12
+13=13
+14=14
+15=15
+16=16
+
+[01]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\43
+FILTER=02 - Bad Coordinates
+PROJECT_ITEMS=PROPERTY
+
+[02]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\44
+FILTER=03 - Sites without name
+PROJECT_ITEMS=MU-NODE
+
+[03]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\45
+FILTER=04 - EmptyProperty
+PROJECT_ITEMS=PROPERTY
+
+[04]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\46
+FILTER=05 - Code Property Erroneous
+PROJECT_ITEMS=PROPERTY
+
+[05]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\47
+FILTER=06 - NO Cell Layer NoHopping
+PROJECT_ITEMS=GSM-CELL
+
+[06]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\48
+FILTER=07 - NoHopping in Same Sector
+PROJECT_ITEMS=GSM-CELL
+
+[07]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\50
+FILTER=09 - Sites without cells
+PROJECT_ITEMS=MU-NODE
+
+[08]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\51
+FILTER=10 - Total carriers equal 0
+PROJECT_ITEMS=GSM-CELL
+
+[09]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\52
+FILTER=11 - RU with Gsm900 Nohopping P1
+PROJECT_ITEMS=GSM-CELL
+
+[10]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\53
+FILTER=11 - Rural model in HR
+PROJECT_ITEMS=GSM-CELL
+
+[11]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\54
+FILTER=11 - Unknown Model for 900
+PROJECT_ITEMS=GSM-CELL
+
+[12]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\55
+FILTER=11 - Model900 in Cell Layer 1800
+PROJECT_ITEMS=GSM-CELL
+
+[13]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\56
+FILTER=11 - DU U SU with nohoppingrural P1
+PROJECT_ITEMS=GSM-CELL
+
+[14]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\57
+FILTER=12 - GSM_Default
+PROJECT_ITEMS=GSM-CELL
+
+[15]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\59
+FILTER=13 - Antenna height abnormal (> 80 m)
+PROJECT_ITEMS=MU-NODE
+
+[16]
+COMMAND=EXPORT_XML
+FOLDER=E:\tis_report\asset\60
+FILTER=14. Precision1,FN8 and ON_AIR flags misuse
+PROJECT_ITEMS=MU-NODE
